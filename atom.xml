@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://rongzong.github.io</id>
+    <id>https://rz310.github.io</id>
     <title>Gridea</title>
-    <updated>2021-07-03T05:22:09.304Z</updated>
+    <updated>2021-07-03T15:13:07.105Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://rongzong.github.io"/>
-    <link rel="self" href="https://rongzong.github.io/atom.xml"/>
+    <link rel="alternate" href="https://rz310.github.io"/>
+    <link rel="self" href="https://rz310.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>https://rongzong.github.io/images/avatar.png</logo>
-    <icon>https://rongzong.github.io/favicon.ico</icon>
+    <logo>https://rz310.github.io/images/avatar.png</logo>
+    <icon>https://rz310.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Gridea</rights>
     <entry>
         <title type="html"><![CDATA[hello，world]]></title>
-        <id>https://rongzong.github.io/post/helloworld/</id>
-        <link href="https://rongzong.github.io/post/helloworld/">
+        <id>https://rz310.github.io/post/helloworld/</id>
+        <link href="https://rz310.github.io/post/helloworld/">
         </link>
         <updated>2021-06-21T07:09:11.000Z</updated>
         <content type="html"><![CDATA[<p>hello world</p>
@@ -21,8 +21,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://rongzong.github.io/post/hello-gridea/</id>
-        <link href="https://rongzong.github.io/post/hello-gridea/">
+        <id>https://rz310.github.io/post/hello-gridea/</id>
+        <link href="https://rz310.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
